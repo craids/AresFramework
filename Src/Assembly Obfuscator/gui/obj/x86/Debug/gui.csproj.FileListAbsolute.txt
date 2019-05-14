@@ -1,0 +1,40 @@
+C:\Users\L30804\Desktop\gui\gui\obj\x86\Debug\gui.Form1.resources
+C:\Users\L30804\Desktop\gui\gui\obj\x86\Debug\gui.Properties.Resources.resources
+C:\Users\L30804\Desktop\gui\gui\obj\x86\Debug\gui.csproj.GenerateResource.Cache
+C:\Users\L30804\Desktop\gui\gui\bin\Debug\gui.exe
+C:\Users\L30804\Desktop\gui\gui\bin\Debug\gui.pdb
+C:\Users\L30804\Desktop\gui\gui\obj\x86\Debug\gui.exe
+C:\Users\L30804\Desktop\gui\gui\obj\x86\Debug\gui.pdb
+F:\gui\gui\obj\x86\Debug\gui.exe
+F:\gui\gui\obj\x86\Debug\gui.pdb
+F:\gui\gui\bin\Debug\gui.exe
+F:\gui\gui\bin\Debug\gui.pdb
+F:\gui\gui\obj\x86\Debug\gui.Form1.resources
+F:\gui\gui\obj\x86\Debug\gui.Properties.Resources.resources
+F:\gui\gui\obj\x86\Debug\gui.csproj.GenerateResource.Cache
+C:\Users\L30804\Desktop\gui\gui\obj\x86\Debug\gui.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\FPYJ\gui\gui\obj\x86\Debug\gui.exe
+C:\Users\Home\Desktop\FPYJ\gui\gui\obj\x86\Debug\gui.pdb
+C:\Users\Home\Desktop\FPYJ\gui\gui\bin\Debug\gui.exe
+C:\Users\Home\Desktop\FPYJ\gui\gui\bin\Debug\gui.pdb
+C:\Users\Home\Desktop\FPYJ\gui\gui\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Home\Desktop\FPYJ\gui\gui\obj\x86\Debug\gui.Form1.resources
+C:\Users\Home\Desktop\FPYJ\gui\gui\obj\x86\Debug\gui.Properties.Resources.resources
+C:\Users\Home\Desktop\FPYJ\gui\gui\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Home\Desktop\FPYJ\gui\gui\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jun Jie\Desktop\gui\gui\obj\x86\Debug\gui.exe
+C:\Users\Jun Jie\Desktop\gui\gui\obj\x86\Debug\gui.pdb
+C:\Users\Jun Jie\Desktop\gui\gui\obj\x86\Debug\gui.csprojResolveAssemblyReference.cache
+C:\Users\Jun Jie\Desktop\gui\gui\obj\x86\Debug\gui.Form1.resources
+C:\Users\Jun Jie\Desktop\gui\gui\obj\x86\Debug\gui.Properties.Resources.resources
+C:\Users\Jun Jie\Desktop\gui\gui\obj\x86\Debug\gui.csproj.GenerateResource.Cache
+C:\Users\Jun Jie\Desktop\gui\gui\bin\Debug\gui.exe
+C:\Users\Jun Jie\Desktop\gui\gui\bin\Debug\gui.pdb
+G:\Assembly Obfuscator\gui\obj\x86\Debug\gui.exe
+G:\Assembly Obfuscator\gui\obj\x86\Debug\gui.pdb
+G:\Assembly Obfuscator\gui\bin\Debug\gui.exe
+G:\Assembly Obfuscator\gui\bin\Debug\gui.pdb
+G:\Assembly Obfuscator\gui\obj\x86\Debug\gui.csprojResolveAssemblyReference.cache
+G:\Assembly Obfuscator\gui\obj\x86\Debug\gui.Form1.resources
+G:\Assembly Obfuscator\gui\obj\x86\Debug\gui.Properties.Resources.resources
+G:\Assembly Obfuscator\gui\obj\x86\Debug\gui.csproj.GenerateResource.Cache

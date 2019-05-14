@@ -1,0 +1,17 @@
+﻿Build started 2/12/2014 9:25:24 AM.
+     1>Project "C:\Documents and Settings\Administrator\Desktop\LAIZYDP\DeveloperTestApplication\DeveloperApplicationNoHook\DeveloperApplicationNoHook.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\DeveloperApplicationNoHook.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         DeveloperApplicationNoHook.vcxproj -> C:\Documents and Settings\Administrator\Desktop\LAIZYDP\DeveloperTestApplication\Release\DeveloperApplicationNoHook.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\DeveloperApplicationNoHook.unsuccessfulbuild".
+         Touching "Release\DeveloperApplicationNoHook.lastbuildstate".
+     1>Done Building Project "C:\Documents and Settings\Administrator\Desktop\LAIZYDP\DeveloperTestApplication\DeveloperApplicationNoHook\DeveloperApplicationNoHook.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15
